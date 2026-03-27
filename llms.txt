@@ -1,0 +1,16 @@
+# howtofilebankruptcy.org
+
+> Step-by-step guide to filing bankruptcy -- credit counseling, means test, petition, 341 meeting, discharge.
+
+howtofilebankruptcy.org is a free, open-source educational resource. Part of the Bankruptcy Transparency Network.
+
+## Pages
+
+- https://howtofilebankruptcy.org/ -- Step-by-step bankruptcy filing guide
+- https://howtofilebankruptcy.org/documents-checklist.html -- Documents needed to file
+- https://howtofilebankruptcy.org/filing-fees.html -- Court fees, fee waivers, installment plans
+- https://howtofilebankruptcy.org/find-your-court.html -- Find your local bankruptcy court
+
+## Contact
+
+This site is maintained by volunteers. No legal advice is provided.
