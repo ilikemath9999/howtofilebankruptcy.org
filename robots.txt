@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://howtofilebankruptcy.org/sitemap.xml
+
+Sitemap: https://howtofilebankruptcy.org/sitemapindex.xml
